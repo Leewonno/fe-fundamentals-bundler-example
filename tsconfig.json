@@ -8,6 +8,6 @@
     "esModuleInterop": true // React를 ESM으로 import할 수 있게 해줘요
     // "moduleResolution": "node"
   },
-  "include": ["./**/*.ts"],
+  "include": ["./**/*.ts", "./**/*.tsx"],
   "exclude": ["node_modules", "dist"]
 }
